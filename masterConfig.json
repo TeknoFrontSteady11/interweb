@@ -1,10 +1,10 @@
 {
 "myServiceConfig": false,
 "GoogleStandby": true,
-"GoogleBannerKey": "ca-app-pub-6390196606212387/2841226503",
-"GoogleWindowKey": "ca-app-pub-6390196606212387/1263387776",
-"ReplaceBannerKey": "ca-app-pub-6390196606212387/2841226503",
-"ReplaceWindowKey": "ca-app-pub-6390196606212387/1263387776",
+"GoogleBannerKey": "ca-app-pub-6226854994057139/3562762029",
+"GoogleWindowKey": "ca-app-pub-6226854994057139/6348707463",
+"ReplaceBannerKey": "ca-app-pub-6226854994057139/3562762029",
+"ReplaceWindowKey": "ca-app-pub-6226854994057139/6348707463",
 "LyOpenURL": "https://vpn1.carrd.co",
 "LyBannerImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/banner.png",
 "LyWindowImageURL": "https://raw.githubusercontent.com/TeknoFrontSteady11/Express_Browser/master/ads.png"
